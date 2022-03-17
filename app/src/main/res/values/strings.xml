@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListFilm</string>
+    <string name="hint">hint</string>
+    <string name="digite_sua_senha">digite sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="button">Button</string>
+</resources>
